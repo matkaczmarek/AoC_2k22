@@ -1,1 +1,1 @@
-# AoC_2k22
+# Advent of code solutions 2022
